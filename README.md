@@ -1,5 +1,5 @@
 # Retail_Transactions_Analysis
-Utilized retail transaction data to analyze customer behavior and drive strategic marketing initiatives for a UK-based online retail business. Key achievements include:
+Utilized retail transaction data from the UCI Machine Learning Repository to analyze customer behavior and drive strategic marketing initiatives for a UK-based online retail business. Key achievements include:
 
 * Customer segmentation and identification of top 50 customers based on transactional history for targeted engagement.
 * Analysis of re-purchase patterns to optimize product replenishment reminders and enhance customer retention strategies.
